@@ -22,7 +22,7 @@
 }
 
 .image-container {
-    height: 500px; /* Adjust height as needed */
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
